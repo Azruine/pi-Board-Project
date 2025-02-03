@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>json/conditions.json</file>
+        <file>json/weather_output.json</file>
+    </qresource>
+</RCC>
